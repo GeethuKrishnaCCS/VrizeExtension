@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction
+        Title="Removetopbar"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ClientSideComponentId="36ec2f94-3631-48f4-8044-2300b410c546"
+        ClientSideComponentProperties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+    </CustomAction>
+</Elements>
